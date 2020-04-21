@@ -19,7 +19,7 @@
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
-        android:padding = "20dp"
+        android:padding = "25dp"
         android:text = "Happy Birthday Friend!" />
 
     <TextView
@@ -31,7 +31,7 @@
         android:fontFamily="sans-serif-light"
         android:textColor =" @android:color/white"
         android:padding = "20dp"
-        android:text = "From Kashif" />
+        android:text = "From Kashif!" />
 
 
 
